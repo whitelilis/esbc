@@ -1,3 +1,5 @@
+## 机器角色分配矩阵
+
 |  | NameNode | DataNode | JournalNode | ResourceManager | Zookeeper | ZKFC | gateway |
 |---------|----------|----------|-------------|-----------------|-----------|------|---------|
 | master | 1 |  |  | 1 | 1 | 1 | 1 |
